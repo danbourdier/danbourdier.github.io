@@ -6854,6 +6854,8 @@ input, select, textarea {
 			overflow-y: hidden;
 			position: relative;
 			width: 100%;
+
+			max-height: 228px;
 		}
 
 		.gallery.style2 article {

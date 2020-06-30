@@ -1,3 +1,34 @@
 #resume-section-h2 {
   color: white;
 }
+
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 180px;
+  position: relative;
+  bottom: 20px;
+}
+#first-social-link {
+  background-image: url('/images/angelIcon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width:  30px;
+}
+
+#second-social-link {
+  background-image: url('/images/linkedinIcon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width:  30px;
+}
+#third-social-link {
+  background-image: url('/images/githubIcon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width:  30px;
+}

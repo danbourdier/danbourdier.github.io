@@ -39,7 +39,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   height: 30px;
-  width:  30px;
+  width:  35px;
 }
 #fifth-social-link {
   background-image: url('/images/resumeIcon.png');
@@ -56,4 +56,32 @@
 
 .head-txt {
   opacity: .5;
+}
+
+#pers-contact {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 30px;
+  opacity: .65;
+}
+
+.content h2 {
+  opacity: .6;
+}
+
+.image img {
+  filter: contrast(1.2);
+}
+
+.inner h2 {
+  opacity: .5;
+}
+
+#very-bot {
+  opacity: .55;
+}
+
+.icons {
+  opacity: .65;
 }

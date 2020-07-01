@@ -16,6 +16,8 @@
   background-repeat: no-repeat;
   height: 30px;
   width:  30px;
+  position: relative;
+  left: 3px;
 }
 
 #second-social-link {
@@ -32,8 +34,26 @@
   height: 30px;
   width:  30px;
 }
+#fourth-social-link {
+  background-image: url('/images/mail.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width:  30px;
+}
+#fifth-social-link {
+  background-image: url('/images/resumeIcon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width:  30px;
+}
 
 .lang-icons {
   height: 65px;
   width: 65px;
+}
+
+.head-txt {
+  opacity: .5;
 }

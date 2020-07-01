@@ -85,3 +85,11 @@
 .icons {
   opacity: .65;
 }
+
+#email-sub-but {
+  border-radius: 22px;
+  padding: 20px;
+  color: grey;
+  border: solid 1px black;
+  text-decoration: none;
+}

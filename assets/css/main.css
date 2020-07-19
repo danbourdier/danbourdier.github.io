@@ -6695,6 +6695,8 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		position: relative;
 		background-color: transparent;
+		flex-direction: row;
+		justify-content: center;
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {

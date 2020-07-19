@@ -6699,6 +6699,11 @@ input, select, textarea {
 		justify-content: center;
 	}
 
+	.gallery.style2 article {
+		margin-left: 100px;
+    margin-right: 100px;
+	}
+
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
 			color: #ffffff;
 		}

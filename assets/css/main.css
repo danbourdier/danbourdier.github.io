@@ -6697,6 +6697,7 @@ input, select, textarea {
 		background-color: transparent;
 		flex-direction: row;
 		justify-content: center;
+		padding-bottom: 3em;
 	}
 
 	.gallery.style2 article {
@@ -7241,7 +7242,7 @@ input, select, textarea {
 	@media screen and (max-width: 1680px) {
 
 		.wrapper.style1 > .inner {
-			padding: 5rem 2.5rem 3rem 2.5rem ;
+			padding: 3rem 2.5rem 3rem 2.5rem ;
 		}
 
 	}
@@ -8217,6 +8218,14 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
+		}
+
+		#first {
+			background-color: #faf3dd;
+		}
+
+		#ec-12315342 {
+			background-color: #faf3dd;
 		}
 
 	.index > :first-child {

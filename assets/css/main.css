@@ -6701,7 +6701,8 @@ input, select, textarea {
 
 	.gallery.style2 article {
 		margin-left: 100px;
-    margin-right: 100px;
+		margin-right: 100px;
+		border: lightgrey solid 1px;
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {

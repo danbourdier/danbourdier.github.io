@@ -5,11 +5,16 @@
 .social-icons {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  width: 180px;
+  /* justify-content: space-between; */
+  /* width: 180px; */
   position: relative;
   bottom: 20px;
 }
+
+.social-icons a {
+  margin-right: 25px;
+}
+
 #first-social-link {
   background-image: url('/images/angelIcon.png');
   background-size: contain;

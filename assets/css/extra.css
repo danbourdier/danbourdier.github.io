@@ -23,6 +23,13 @@
     
 }
 
+@media screen and (max-width: 600px) {
+  .social-icons {
+    width: fit-content;
+    margin: 0px auto;
+  }
+}
+
 #first-social-link {
   background-image: url('/images/angelIcon.png');
   background-size: contain;

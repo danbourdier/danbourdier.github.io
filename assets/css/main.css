@@ -2120,6 +2120,10 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
+	.project-live-links {
+		text-decoration: none;
+	}
+
 		input[type="submit"].icon:before,
 		input[type="reset"].icon:before,
 		input[type="button"].icon:before,

@@ -6953,6 +6953,7 @@ input, select, textarea {
 
 				.gallery.style2 article .caption a {
 					pointer-events: auto;
+					text-decoration: none;
 				}
 
 				.gallery.style2 article .caption h2, .gallery.style2 article .caption h3, .gallery.style2 article .caption h4, .gallery.style2 article .caption h5, .gallery.style2 article .caption h6 {

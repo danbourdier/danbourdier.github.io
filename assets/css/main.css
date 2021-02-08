@@ -6885,6 +6885,7 @@ input, select, textarea {
 			overflow: hidden;
 			width: 22.5rem;
 			max-width: 75vw;
+			border-radius: 10px;
 		}
 
 			.gallery.style2 article .image {

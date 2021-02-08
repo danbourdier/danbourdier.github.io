@@ -6899,6 +6899,22 @@ input, select, textarea {
 					border-radius: 0;
 					height: 270px;
 				}
+			.gallery.style2 article video {
+				display: block;
+				height: 100%;
+				width: 100%;
+				transform: scale(1.01, 1.05);
+				border-radius: 0;
+			}
+
+				.gallery.style2 article video {
+					display: block;
+					height: 100%;
+					width: 100%;
+					transform: scale(1.01, 1.05);
+					border-radius: 0;
+					/* height: 270px; */
+				}
 
 			.gallery.style2 article .caption {
 				-moz-align-items: center;
